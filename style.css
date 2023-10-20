@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Gupter&family=Inknut+Antiqua&family=Monomaniac+One&family=Noto+Sans+Osmanya&family=Open+Sans&family=Tinos&family=Vidaloka&display=swap');
+
+body {
+    background-color: rgb(253, 241, 227);
+    color: #5d1c05;
+    text-align: center;
+    font-family: 'Monomaniac One';
+    margin: 5vh;
+    border: #5d1c05;
+}
+
+h1 {
+    font-size: 10vh;
+}
+
+h3 {
+    font-size: 5vh;
+}
+
+a {
+    font-size: 4vh;
+    color: #5d1c05;
+    text-decoration: none;
+}
+
+button {
+    background-color: rgb(149, 186, 194);
+    font-family: 'Monomaniac One';
+    height: 7vh;
+    border-radius: 2px;
+}
+
+img {
+    height: 20vh;
+}
